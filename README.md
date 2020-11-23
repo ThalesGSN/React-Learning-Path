@@ -105,15 +105,15 @@ Não necessariamente você tem que saber todos os detalhes de implementação, m
 	* [Material e MUI Theme (se for uma aplicação Material)](https://material-ui.com/customization/theming)
 
 11. Testing
-* Jest
-* Enzyme
-* React Testing Library (prefira este)
-* Cypress
+	* Jest
+	* Enzyme
+	* React Testing Library (prefira este)
+	* Cypress
 
 12. Estrutura do projeto
-* [Feature based](https://reactjs.org/docs/faq-structure.html)
-* [Atomic design](https://danilowoz.com/blog/atomic-design-with-react)
-* [Feature special (meu favorito, e criado por um amigo meu)](https://github.com/ramonprata/structure_react_redux_app)
+	* [Feature based](https://reactjs.org/docs/faq-structure.html)
+	* [Atomic design](https://danilowoz.com/blog/atomic-design-with-react)
+	* [Feature special (meu favorito, e criado por um amigo meu)](https://github.com/ramonprata/structure_react_redux_app)
 
 ## Redux
 Apesar de não ser uma ferramenta mandatória no mundo react, ela é amplamente utilizada, às vezes até mesmo de maneira errada, então até mesmo se você tomar a decisão de não utilizar Redux na sua arquitetura, você deve saber o porquê dessa decisão. [Artigo sobre o assunto.](https://dev.to/g_abud/why-i-quit-redux-1knl)
