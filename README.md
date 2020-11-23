@@ -67,16 +67,16 @@ Essa lista é que mais gera valor na carreira de um dev front, pois vale pra qua
 	
 4. Conceitos gerais
 Com relação a esses conceitos, vale a pena a aprender o que eles são na teoria e estudar como implementa-los quando precisar na prática.
-* Componentização (A primeira parte desse KT: https://web.microsoftstream.com/video/62928a8c-c073-4a43-ba3e-0032e276a0b9)
-* I18n para internacionalização de aplicações. (https://www.sitepoint.com/how-to-implement-internationalization-i18n-in-javascript)
-* Axios vs Fetch
-* EsLint + Pa11y
-* Webpack
-* Typescript
-* Teste unitário
-* Testes E2e
-* PWA
-* SPA vs SSR
+	* Componentização (A primeira parte desse KT: https://web.microsoftstream.com/video/62928a8c-c073-4a43-ba3e-0032e276a0b9)
+	* I18n para internacionalização de aplicações. (https://www.sitepoint.com/how-to-implement-internationalization-i18n-in-javascript)
+	* Axios vs Fetch
+	* EsLint + Pa11y
+	* Webpack
+	* Typescript
+	* Teste unitário
+	* Testes E2e
+	* PWA
+	* SPA vs SSR
 
 ## React
 
@@ -88,21 +88,21 @@ Não necessariamente você tem que saber todos os detalhes de implementação, m
 3. Functional components
 4. React lists e porque usar Key
 5. Hooks
-* useState
-* useEffect
-* useContext
-* useRef
-**Atenção:** os dois próximos hooks são relacionados a performance, mas devem ser usados com cautela pois se usados de maneira vasta pioram a performance da sua aplicação. [Quando usar então?](https://kentcdodds.com/blog/usememo-and-usecallback)
-* useCallback
-* usememo
+	* useState
+	* useEffect
+	* useContext
+	* useRef
+	**Atenção:** os dois próximos hooks são relacionados a performance, mas devem ser usados com cautela pois se usados de maneira vasta pioram a performance da sua aplicação. [Quando usar então?](https://kentcdodds.com/blog/usememo-and-usecallback)
+	* useCallback
+	* usememo
 6. React fragment
 7. React-router
 8. React.Lazy
 9. React.Memo
 10. Estilização
-* React in-line style
-* styled components
-* [Material e MUI Theme (se for uma aplicação Material)](https://material-ui.com/customization/theming)
+	* React in-line style
+	* styled components
+	* [Material e MUI Theme (se for uma aplicação Material)](https://material-ui.com/customization/theming)
 
 11. Testing
 * Jest
