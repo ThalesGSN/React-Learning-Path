@@ -92,6 +92,7 @@ Não necessariamente você tem que saber todos os detalhes de implementação, m
 	* useEffect
 	* useContext
 	* useRef
+	
 	**Atenção:** os dois próximos hooks são relacionados a performance, mas devem ser usados com cautela pois se usados de maneira vasta pioram a performance da sua aplicação. [Quando usar então?](https://kentcdodds.com/blog/usememo-and-usecallback)
 	* useCallback
 	* usememo
@@ -113,7 +114,7 @@ Não necessariamente você tem que saber todos os detalhes de implementação, m
 12. Estrutura do projeto
 	* [Feature based](https://reactjs.org/docs/faq-structure.html)
 	* [Atomic design](https://danilowoz.com/blog/atomic-design-with-react)
-	* [Feature special (meu favorito, e criado por um amigo meu)](https://github.com/ramonprata/structure_react_redux_app)
+	* [FeatureResponsability (meu favorito, conceitualizado por um amigo meu)](https://github.com/ramonprata/structure_react_redux_app)
 
 ## Redux
 Apesar de não ser uma ferramenta mandatória no mundo react, ela é amplamente utilizada, às vezes até mesmo de maneira errada, então até mesmo se você tomar a decisão de não utilizar Redux na sua arquitetura, você deve saber o porquê dessa decisão. [Artigo sobre o assunto.](https://dev.to/g_abud/why-i-quit-redux-1knl)
